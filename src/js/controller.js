@@ -1,5 +1,5 @@
 import * as modal from './modal.js';
-import RecipeView from './views/RecipeView.js';
+import RecipeView from './views/recipeview.js';
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
 import SearchView from './views/searchview.js';
