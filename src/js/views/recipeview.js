@@ -1,5 +1,5 @@
 import icons from 'url:../../img/icons.svg'; // for parcel 2
-const Fraction = require('fractional').Fraction;
+import { Fraction } from 'fractional';
 
 import View from './view';
 
