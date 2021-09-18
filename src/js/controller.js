@@ -9,10 +9,6 @@ import BookmarksView from './views/bookmarksview.js';
 import AddRecipeView from './views/addRecipeView.js';
 import { MODAL_CLOSE_SEC } from './config.js';
 
-// if (module.hot) {
-//   module.hot.accept();
-// }
-
 const recipeContainer = document.querySelector('.recipe');
 
 // https://forkify-api.herokuapp.com/v2
